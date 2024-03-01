@@ -3,7 +3,7 @@ welcom my ☆profile,!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nhiney&color=blueviolet&style=flat">
-  <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
+  <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Oct 16 2023" /></a>
 </p>
 
 
