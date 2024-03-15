@@ -1,4 +1,4 @@
-# Halo I'm YenNhi 👋
+# Halo I'm YenNhi, 👋
   <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 ☆ Connect with me (_tolahni)
 <p align="left">
